@@ -18,6 +18,8 @@ CREATE TABLE `contact_us` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 INSERT INTO `contact_us` (`id`, `name`, `email`, `message`, `added_on`) VALUES
-(5,	'David Perry',	'samuelo73@hotmail.com',	'hello i am David Perry!!\r\n',	'2023-05-22 07:06:36');
+(5,	'David Perry',	'samuelo73@hotmail.com',	'hello i am David Perry!!\r\n',	'2023-05-22 07:06:36'),
+(7,	'Shawn Moore',	'steviewhite98@hotmail.com',	'Hi Shawn Moore here,  nice to meet you!',	'2023-05-22 07:30:38'),
+(8,	'Tomas Carter',	'Tomas.Carter@hotmail.com',	'Tomas Carter here, contact me to know more\r\n',	'2023-05-22 07:36:41');
 
--- 2023-05-22 07:27:20
+-- 2023-05-22 07:37:14
